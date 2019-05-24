@@ -2,19 +2,19 @@ ul a{
     text-decoration-line: none;
 }
 ul a li{
-    height: 50px;
+    height: 140px;
     width: 90%;
     margin: auto ;
 }
 ul a li div img{
-    height: 45px; width: 45px;
+    height: 125px; width: 125px;
     float: left;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 ul a li div .xname{
     font-family: 华文楷体;
-    font-size: 23px;
-    line-height: 50px;
+    font-size: 60px;
+    line-height: 120px;
 }
 ul a li .xpho img{
     height: 45px;
@@ -23,7 +23,7 @@ ul a li .xpho img{
     border-radius: 10px;
 }
 ul li .ul2 li{
-    font-size: 13px;
+    font-size: 35px;
     font-family: 华文楷体 ;
     font-style: italic;
 
